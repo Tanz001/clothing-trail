@@ -1,0 +1,6 @@
+{
+  "name": "Offcut",
+  "description": "Offcut streetwear clothing-rail hero with 3D edge-on garments, detail view, and marquee band.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
